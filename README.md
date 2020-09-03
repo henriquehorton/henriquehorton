@@ -1,6 +1,6 @@
-### Olá, me chamo Henrique Horton sou estudante de Engenharia Biomédia e Ciencias da Computação na Universidade Federal do ABC - UFABC.
-### Atualmente faço estágio em monitoramento de dados na Secretaria Municipal de Inovação e Tecnologia - SMIT da Prefeitura da Cidade de São Paulo.
-### E faço pesquiça de iniciação Científica em Tomografia por Impedância Elétrica também na Universidade Federal do ABC - UFABC.
+#### Olá, me chamo Henrique Horton sou estudante de Engenharia Biomédia e Ciencias da Computação na Universidade Federal do ABC - UFABC.
+#### Atualmente faço estágio em monitoramento de dados na Secretaria Municipal de Inovação e Tecnologia - SMIT da Prefeitura da Cidade de São Paulo.
+#### E faço pesquiça de iniciação Científica em Tomografia por Impedância Elétrica também na Universidade Federal do ABC - UFABC.
 
 #### Pesquisa:
 Programa desenvolvido em python para ler, plotar e analisar graficamente imagens de Tomografia da região tórax.
