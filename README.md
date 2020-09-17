@@ -4,10 +4,12 @@
 
 #### Pesquisa:
 Programa desenvolvido em python para ler, plotar e analisar graficamente imagens de Tomografia da região tórax.
+
 https://github.com/henriquehorton/DICOM-Python/blob/master/programa_manipulando_dicom_com_pydicom.ipynb
 
 #### Trabalho:
 Dashboard em POWER BI do orçamento planejado e executado em TIC para 2020.*
+
 https://app.powerbi.com/view?r=eyJrIjoiZTVlNzNjODYtNWFkNS00ZjdhLTljZTctMWRhZWYwNjAyNjdiIiwidCI6ImE1OTk5NDRkLTliMmYtNGU2Ny05YzgzLTIxNWY1MGUxNTRhZiJ9
 
 #### * lembrando que são dados públicos disponibilizados no sítio http://orcamento.sf.prefeitura.sp.gov.br/orcamento/
